@@ -10,6 +10,7 @@ import UIKit
 
 class FoundUserEventsViewController: UIViewController,UITableViewDelegate, UITableViewDataSource {
 
+    //change for fucks
     var selectedSportsArray = [String]()
     var mySeguedArray: [String]!{
         didSet{
