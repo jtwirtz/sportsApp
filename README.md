@@ -1,14 +1,14 @@
 # ActivUS
 
 Have you ever wanted to play a pick-up game of basketball but were unsure if the courts were empty or not?
-Ever wanted to play a quck match of tennis but all your friends were busy?
+Ever wanted to play a quick match of tennis but all your friends were busy?
 Wanted to get into weightlifting but need a buddy to motivate you?
 
 ActivUS, for iOS and Android, is the app for you. 
 
 ##Summary
 
-ActivUS is an app that allows the user to create or find sporting events that caters to their desires. 
+ActivUS is a social networking app that allows the user to create or find sporting events that caters to their desires. 
 
 ###Repo Summary
 
