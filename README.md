@@ -23,17 +23,20 @@ create a new branch everytime you want to implement a new feature.
 * run this commands:
   * cd Desktop
   * cd sportsApp
+
 ####When you make edits to the project run these commands:
 * git add .
 * git commit -m "(type summary here about the changes you made)"
 * git push
   * this should prompt you to enter your login information
   * if you get a conflict in this, call Kawika for help
+
 ####When you want to see the edits that you did not make
 * git fetch
 * git pull
   * this should prompt you to enter your login information
   * if you have uncommitted changes in this, call Kawika for help
+
 ####When you want to create a new feature
 * Create a new branch from the github site
   * select the drop down menu and click 'development' branch
